@@ -11,8 +11,6 @@ I'm a passionate Backend Developer from Cairo, Egypt. I specialize in building r
 
 Currently, I’m focused on deepening my backend development skills and exploring new technologies to deliver high-quality software.
 
-Feel free to reach out at [abdelrahmannn202@gmail.com](mailto:abdelrahmannn202@gmail.com) — I’d love to connect!
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahmann202) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Abdelrahmann202) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelrahmannn202@gmail.com)
