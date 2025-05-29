@@ -1,13 +1,13 @@
 # 💫 About Me:
 # Hi there! 👋 I'm Abdelrahman Ali
 
-I'm a passionate Backend Developer from Cairo, Egypt. I specialize in building robust and secure backend systems using Node.js, Express, and MongoDB. I enjoy creating scalable RESTful APIs with strong authentication and clean architecture.
+I'm a passionate Backend Developer from Cairo, Egypt. I specialize in building robust and secure backend systems using Node.js, Express, PostgreSQL, and MongoDB. I enjoy creating scalable RESTful APIs with strong authentication and clean architecture.
 
 ## What I Do
 
 - **Backend Development:** Skilled in TypeScript and JavaScript, focusing on developing efficient and maintainable server-side applications.
-- **API Design:** Experienced in building secure REST APIs with JWT authentication and security best practices.
-- **Database Management:** Proficient in MongoDB for data modeling and CRUD operations.
+- **API Design:** Experienced in building secure REST APIs.
+- **Database Management:** Proficient in MongoDB and PostgreSQLfor.
 
 Currently, I’m focused on deepening my backend development skills and exploring new technologies to deliver high-quality software.
 
