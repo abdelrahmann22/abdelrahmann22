@@ -18,6 +18,17 @@ Currently, I’m focused on deepening my backend development skills and explorin
 
 ## 📈 Monthly Development Breakdown
 <!--START_SECTION:waka-->
+
+```javascript
+From: 07 October 2025 - To: 06 November 2025
+
+Total Time: 1 hr 14 mins
+
+JavaScript   1 hr 9 mins     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀   91.34 %
+conf         4 mins          ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.47 %
+Other        1 min           ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.49 %
+```
+
 <!--END_SECTION:waka-->
 
 # 💻 Tech Stack:
