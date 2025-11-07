@@ -16,7 +16,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           SECTION_NAME: waka
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          BLOCKS: ░▒▓█
           CODE_LANG: javascript
           TIME_RANGE: last_30_days
           LANG_COUNT: 10
