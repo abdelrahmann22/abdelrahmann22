@@ -22,8 +22,10 @@ Currently, I’m focused on deepening my backend development skills and explorin
 ![](https://nirzak-streak-stats.vercel.app/?user=abdelrahmann22&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmann22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 📈 Monthly Development Breakdown
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 
 
 ## 🏆 GitHub Trophies
