@@ -20,10 +20,10 @@ Currently, I’m focused on deepening my backend development skills and explorin
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 11 hrs 12 mins
+Total Time: 11 hrs 13 mins
 
-JavaScript   11 hrs 2 mins   ███████████████████████▓░   94.62 %
-Other        27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+JavaScript   11 hrs 2 mins   ██████████████████████▒░░   89.96 %
+Other        1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
 ```
 
 <!--END_SECTION:waka-->
