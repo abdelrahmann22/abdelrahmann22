@@ -14,8 +14,8 @@ I'm a Software Engineer from Cairo, Egypt, focused on backend development.
 ```txt
 Total Time: 21 hrs 31 mins
 
-JavaScript   14 hrs 55 mins  ██████████████░░░░░░░░░░░   56.57 %
-Other        4 hrs 52 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.47 %
+JavaScript   14 hrs 55 mins  ██████████████░░░░░░░░░░░   56.31 %
+Other        4 hrs 59 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.84 %
 ```
 
 <!--END_SECTION:waka-->
