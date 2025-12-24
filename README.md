@@ -12,9 +12,9 @@ I'm a Software Engineer from Cairo, Egypt, focused on backend development.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 25 hrs 7 mins
+Total Time: 24 hrs 47 mins
 
-Other        13 hrs 36 mins  ████████▓░░░░░░░░░░░░░░░░   35.14 %
+Other        12 hrs 22 mins  ████████▒░░░░░░░░░░░░░░░░   33.30 %
 ```
 
 <!--END_SECTION:waka-->
