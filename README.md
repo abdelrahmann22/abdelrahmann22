@@ -12,11 +12,11 @@ I'm a Software Engineer from Cairo, Egypt, focused on backend development.
 <!--START_SECTION:waka-->
 
 ```markdown
-Total Time: 28 hrs 19 mins
+Total Time: 10 hrs 48 mins
 
-JavaScript   24 hrs 53 mins  ████████████████████▓░░░░   82.28 %
-Markdown     2 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-Other        1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+JavaScript   9 hrs 33 mins   █████████████████████▒░░░   85.24 %
+Markdown     1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
+Other        24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
 ```
 
 <!--END_SECTION:waka-->
