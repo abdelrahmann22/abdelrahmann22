@@ -9,7 +9,7 @@ I'm a Software Engineer from Cairo, Egypt, focused on backend development.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2015%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -38,25 +38,25 @@ Sunday                   172 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Go                       4 hrs 12 mins       ██████████████████░░░░░░░   71.62 % 
-Markdown                 55 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-JSON                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-TeX                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Go                       4 hrs 12 mins       ██████████████████░░░░░░░   72.10 % 
+Markdown                 55 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+JSON                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+TeX                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 47 mins       ████████████████████░░░░░   81.45 % 
-Zed                      1 hr                ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Cursor                   4 hrs 47 mins       ████████████████████░░░░░   81.99 % 
+Zed                      57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🐱‍💻 Projects: 
-go-basics                4 hrs 23 mins       ███████████████████░░░░░░   74.66 % 
-Unknown Project          1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-dotfiles                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-Resume                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+go-basics                4 hrs 23 mins       ███████████████████░░░░░░   75.16 % 
+Unknown Project          1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+dotfiles                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Resume                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 💻 Operating System: 
-Linux                    5 hrs 52 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
