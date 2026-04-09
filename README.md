@@ -9,7 +9,7 @@ I'm a Software Engineer from Cairo, Egypt, focused on backend development.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2053%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -38,26 +38,25 @@ Sunday                   172 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Go                       4 hrs 44 mins       ██████████████████░░░░░░░   71.55 % 
-Text                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-JavaScript               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-HTML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Go                       4 hrs 3 mins        █████████████████░░░░░░░░   67.80 % 
+JavaScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Text                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+HTML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 49 mins       ██████████████████████░░░   87.80 % 
-Antigravity              46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Cursor                   5 hrs 12 mins       ██████████████████████░░░   86.95 % 
+Antigravity              46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
 
 🐱‍💻 Projects: 
-go-basics                3 hrs 19 mins       ████████████░░░░░░░░░░░░░   50.00 % 
-typr                     2 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   31.50 % 
-stillus                  46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-fotkort-mobile           11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+go-basics                2 hrs 31 mins       ███████████░░░░░░░░░░░░░░   42.13 % 
+typr                     2 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   36.64 % 
+stillus                  46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+fotkort-mobile           11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 💻 Operating System: 
-Linux                    6 hrs 38 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
