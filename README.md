@@ -9,7 +9,7 @@ I'm a Software Engineer from Cairo, Egypt, focused on backend development.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%2058%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -38,26 +38,26 @@ Sunday                   172 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Go                       15 hrs 28 mins      ████████████████████░░░░░   81.95 % 
-Bash                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-Other                    1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-Text                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Go                       14 hrs 25 mins      ████████████████████░░░░░   78.27 % 
+Bash                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Other                    1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Text                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-Cursor                   18 hrs 18 mins      ████████████████████████░   96.97 % 
-Neovim                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Unknown Editor           9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Cursor                   17 hrs 48 mins      ████████████████████████░   96.63 % 
+Neovim                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Unknown Editor           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🐱‍💻 Projects: 
-go_agents_test           7 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   41.25 % 
-go-ydemy-agents          5 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.17 % 
-typr                     3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-go_agents                1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-dotfiles                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+go_agents_test           7 hrs 47 mins       ███████████░░░░░░░░░░░░░░   42.27 % 
+go-ydemy-agents          6 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   35.16 % 
+typr                     1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+go_agents                1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+dotfiles                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 💻 Operating System: 
-Linux                    18 hrs 53 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
