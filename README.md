@@ -38,27 +38,26 @@ Sunday                   176 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Markdown                 12 hrs 41 mins      ██████████░░░░░░░░░░░░░░░   39.65 % 
-JavaScript               11 hrs 30 mins      █████████░░░░░░░░░░░░░░░░   35.97 % 
-Other                    2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-Vue                      1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-JSON                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+JavaScript               11 hrs 30 mins      ████████████░░░░░░░░░░░░░   49.24 % 
+Markdown                 4 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+Other                    2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Vue                      1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔥 Editors: 
-Zed                      17 hrs 41 mins      ██████████████░░░░░░░░░░░   55.29 % 
-Unknown Editor           6 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-Cursor                   4 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Neovim                   3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Zed                      17 hrs 41 mins      ███████████████████░░░░░░   75.69 % 
+Cursor                   4 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+Neovim                   1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 
 🐱‍💻 Projects: 
-nodejs-instant-api       16 hrs 10 mins      █████████████░░░░░░░░░░░░   50.57 % 
-ui_ux                    7 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
-radiance-backend         2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-vue-ionic-instant        2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-instant-web              1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+nodejs-instant-api       16 hrs 10 mins      █████████████████░░░░░░░░   69.23 % 
+radiance-backend         2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+vue-ionic-instant        2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+instant-web              1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Unknown Project          38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 💻 Operating System: 
-Linux                    31 hrs 59 mins      █████████████████████████   100.00 % 
+Linux                    23 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
