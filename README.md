@@ -9,7 +9,7 @@ I'm a Software Engineer from Cairo, Egypt, focused on backend development.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2030%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -38,28 +38,28 @@ Sunday                   176 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Other                    1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Vue                      1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Python                   1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Go                       1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-JSON                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Other                    1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Vue                      1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Python                   1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Markdown                 1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Go                       1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.84 % 
-Unknown Editor           2 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
-Cursor                   1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Antigravity              1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Neovim                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+VS Code                  2 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   31.24 % 
+Unknown Editor           2 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+Cursor                   1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Antigravity              1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Neovim                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   39.88 % 
-frontend                 1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-oh-my-chat               1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-dotfiles                 1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-lazyweb                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Unknown Project          3 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   34.53 % 
+dotfiles                 2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+frontend                 1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+oh-my-chat               1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+lazyweb                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 💻 Operating System: 
-Linux                    9 hrs 27 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
