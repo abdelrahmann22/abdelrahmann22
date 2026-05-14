@@ -38,28 +38,28 @@ Sunday                   176 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Other                    1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Vue                      1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Python                   1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Markdown                 1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Go                       1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Other                    1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   26.99 % 
+Vue                      1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Go                       59 mins             █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Markdown                 47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   31.24 % 
-Unknown Editor           2 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-Cursor                   1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-Antigravity              1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Neovim                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+VS Code                  2 hrs 55 mins       █████████████░░░░░░░░░░░░   53.89 % 
+Antigravity              1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+Neovim                   40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Cursor                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Unknown Editor           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   34.53 % 
-dotfiles                 2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-frontend                 1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-oh-my-chat               1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-lazyweb                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+dotfiles                 2 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   39.45 % 
+oh-my-chat               1 hr 49 mins        ████████░░░░░░░░░░░░░░░░░   33.65 % 
+frontend                 40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Unknown Project          31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+lazyweb                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 💻 Operating System: 
-Linux                    9 hrs 20 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
