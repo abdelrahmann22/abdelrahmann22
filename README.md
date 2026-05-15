@@ -9,59 +9,6 @@ I'm a Software Engineer from Cairo, Egypt, focused on backend development.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2030%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                480 commits         ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-🌆 Daytime                239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-🌃 Evening                318 commits         █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-🌙 Night                  690 commits         ██████████░░░░░░░░░░░░░░░   39.95 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Tuesday                  223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Wednesday                352 commits         █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-Thursday                 206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Friday                   342 commits         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-Saturday                 211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Sunday                   176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Cairo
-
-💬 Programming Languages: 
-Other                    1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   26.99 % 
-Vue                      1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-Go                       59 mins             █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-Markdown                 47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 55 mins       █████████████░░░░░░░░░░░░   53.89 % 
-Antigravity              1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-Neovim                   40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Cursor                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-Unknown Editor           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-
-🐱‍💻 Projects: 
-dotfiles                 2 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   39.45 % 
-oh-my-chat               1 hr 49 mins        ████████░░░░░░░░░░░░░░░░░   33.65 % 
-frontend                 40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Unknown Project          31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-lazyweb                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-
-💻 Operating System: 
-Linux                    5 hrs 24 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
